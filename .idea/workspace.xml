@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f47908a-2249-49b9-bf70-7e469d03d7ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/ng-prj/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/ng-prj/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NewDjangoShop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/ng-prj" />
+  </component>
+  <component name="ProjectId" id="1e2dMWdLfupJgnGMeXS7TCMqvdc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/market/management" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\offic\Desktop\NewDjangoShop\project\market\management" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f47908a-2249-49b9-bf70-7e469d03d7ac" name="Default Changelist" comment="" />
+      <created>1593523573508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593523573508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593618543123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593618543123" />
+    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1593526268062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593526268062" />
+    <state x="808" y="271" key="SettingsEditor" timestamp="1593537017073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="271" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593537017073" />
+  </component>
+</project>
